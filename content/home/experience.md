@@ -26,7 +26,7 @@ experience:
     company: Murata Electronics
     company_url: ''
     company_logo: murata-electronics
-    location: Carrollton
+    location: Carrollton, Texas
     date_start: '2021-08-21'
     date_end: ''
     description: |2-
@@ -42,7 +42,7 @@ experience:
     company: BestBuy
     company_url: ''
     company_logo: org-x
-    location: Plano
+    location: Plano, Texas
     date_start: '2021-07-03'
     date_end: '2020-08-14'
     description: |2-
