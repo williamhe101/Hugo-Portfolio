@@ -25,7 +25,7 @@ experience:
   - title: RF Hardware Engineer Assistant
     company: Murata Electronics
     company_url: ''
-    company_logo: murata-electronics.jpg
+    company_logo: murata-electronics
     location: Carrollton, Texas
     date_start: '2021-08-21'
     date_end: ''
