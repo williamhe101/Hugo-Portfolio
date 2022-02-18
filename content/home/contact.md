@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jiajunhe10@gmail.com
-  phone: 832 762 74 85
+  phone: 832-762-7485
   address:
     #street: 450 Serra Mall
     city: Plano
@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
  # office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
