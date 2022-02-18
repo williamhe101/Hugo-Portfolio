@@ -18,22 +18,17 @@ bio: My interests include hardware engineering, RF applications, and
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Computer Building
 - Cryptocurrency
+- Volunteering
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelors in Science in Electrical Engineering
+    institution: University of Texas at Dallas
+    year: 2023
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +38,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- #icon: twitter
+  #icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+- #icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/williamhe101
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/williamhe10/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an undergrad student at the University of Texas at Dallas, where my primary interests include hardware design, keeping up to date with new technology, and IoT products. 
+I lead the Logistics and Events committee, which is a team dedicated to curating a student-driven, virtual Hackathon sponsored by IEEE. I is also currently learning more about 5G networks through Qualcomm and serving as a student ambassador for Microsoft. Aside from all this, I particularly enjoy having a great time with friends and reading/learning about psychology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
