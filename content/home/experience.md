@@ -41,7 +41,7 @@ experience:
   - title: Geek Squad Consultation Agent
     company: BestBuy
     company_url: ''
-    company_logo: org-x
+    company_logo: geek
     location: Plano, Texas
     date_start: '2021-07-03'
     date_end: '2020-08-14'
