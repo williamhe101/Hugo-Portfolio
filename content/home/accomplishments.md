@@ -27,11 +27,11 @@ item:
 - certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-01-01"
-  description: "Recieved the official President’s Volunteer Service Gold Award medallion and a personalized certificate of achievement and letter signed by the president. Volunteered 250+ hours to qualify for years 2016 and 2017."
+  description: Recieved the official President’s Volunteer Service Gold Award medallion and a personalized certificate of achievement and letter signed by the president. Volunteered 250+ hours to qualify for years 2016 and 2017.
   organization: prezv
-  organization_url:https://presidentialserviceawards.gov
+  organization_url: https://presidentialserviceawards.gov
   title: The President’s Volunteer Service Gold Award
-  url: ""
+  url: "https://presidentialserviceawards.gov"
   
 - certificate_url: https://www.credly.com/badges/191e89b0-b556-4423-a6eb-d20780f40d9c/linked_in
   date_end: ""
