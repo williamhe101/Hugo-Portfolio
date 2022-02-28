@@ -44,7 +44,7 @@ item:
 - certificate_url: https://www.credly.com/badges/723952ed-7f23-4043-b980-92e598902883?source=linked_in_profile
   date_end: ""
   date_start: "2019-05-01"
-  description: ""
+  description: "Covers critical concepts related to working with colleagues and clients with crucial legal, technical, and design-related knowledge and interface setup and program settings that assist in an efficient and effective workflow, as well as knowledge about ingesting digital assets for a project."
   organization: Adobe_Photoshop
   organization_url: https://www.adobe.com/products/photoshop.html
   title: 'Adobe Certified Associate in Visual Design Using Adobe Photoshop'
