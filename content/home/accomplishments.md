@@ -43,8 +43,8 @@ item:
   url: "https://www.adobe.com/products/photoshop.html"
   
   - certificate_url:
-  date_end: "2016-01-01"
-  date_start: "2017-01-01"
+  date_end: "2017-01-01"
+  date_start: "2016-01-01"
   description: "Recieved the official President’s Volunteer Service Gold Award medallion and a personalized certificate of achievement and letter signed by the president. Volunteered 250+ hours to qualify for years 2016 and 2017."
   organization: prezv
   organization_url: https://presidentialserviceawards.gov/
