@@ -40,7 +40,7 @@ item:
   company_logo: att
   organization_url: https://inside.att.jobs/externship
   title: 2021 AT&T Summer Learning Academy Extern
-  url: https://www.credly.com/badges/191e89b0-b556-4423-a6eb-d20780f40d9c/linked_in
+  url: "https://inside.att.jobs/externship"
   
 - certificate_url: https://www.credly.com/badges/723952ed-7f23-4043-b980-92e598902883?source=linked_in_profile
   date_end: ""
@@ -49,7 +49,7 @@ item:
   organization: Adobe PhotoShop
   organization_url: https://www.adobe.com/products/photoshop.html
   title: 'Adobe Certified Associate in Visual Design Using Adobe Photoshop'
-  url: "https://www.credly.com/badges/723952ed-7f23-4043-b980-92e598902883?source=linked_in_profile"
+  url: "https://www.adobe.com/products/photoshop.html"
 
 design:
   columns: '2' 
