@@ -63,4 +63,4 @@ highlight_name: true
 I am an undergrad student at the University of Texas at Dallas, where my primary interests include hardware design, keeping up to date with new technology, and IoT products. 
 I lead the Logistics and Events committee, which is a team dedicated to curating a student-driven, virtual Hackathon sponsored by IEEE. I am also currently learning more about 5G networks through Qualcomm and serving as a student ambassador for Microsoft. Aside from all this, I particularly enjoy having a great time with friends and reading/learning about psychology.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
