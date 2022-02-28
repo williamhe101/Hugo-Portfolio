@@ -37,7 +37,6 @@ item:
   date_start: "2021-07-01"
   description: Personal Development, Business, Technology, and insights on life at AT&T direct from our leadership and experts in their field.
   organization: AT&T
-  company_logo: att
   organization_url: https://inside.att.jobs/externship
   title: 2021 AT&T Summer Learning Academy Extern
   url: "https://inside.att.jobs/externship"
@@ -46,7 +45,7 @@ item:
   date_end: ""
   date_start: "2019-05-01"
   description: ""
-  organization: Adobe PhotoShop
+  organization: Adobe Photoshop
   organization_url: https://www.adobe.com/products/photoshop.html
   title: 'Adobe Certified Associate in Visual Design Using Adobe Photoshop'
   url: "https://www.adobe.com/products/photoshop.html"
