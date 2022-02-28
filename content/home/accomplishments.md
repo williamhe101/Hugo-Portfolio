@@ -45,7 +45,7 @@ item:
   date_end: ""
   date_start: "2019-05-01"
   description: ""
-  organization: Adobe Photoshop
+  organization: Adobe_Photoshop
   organization_url: https://www.adobe.com/products/photoshop.html
   title: 'Adobe Certified Associate in Visual Design Using Adobe Photoshop'
   url: "https://www.adobe.com/products/photoshop.html"
