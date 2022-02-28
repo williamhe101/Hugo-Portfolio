@@ -18,11 +18,11 @@ subtitle:
 feature:
 - description: 
   icon: cplusplus
-  icon_pack: fab
+  icon_pack: custom
   name: C++
 - description: 
   icon: circuitdesign
-  icon_pack: fas
+  icon_pack: custom
   name: Statistics
 - description: 
   icon: camera-retro
