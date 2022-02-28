@@ -23,7 +23,7 @@ feature:
 - description: 
   icon: circuitdesign
   icon_pack: custom
-  name: Statistics
+  name: Circuit Design
 - description: 
   icon: camera-retro
   icon_pack: fas
