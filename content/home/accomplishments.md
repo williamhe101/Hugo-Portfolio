@@ -31,24 +31,22 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-  
-- certificate_url: https://www.credly.com/badges/191e89b0-b556-4423-a6eb-d20780f40d9c/linked_in
+- certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-07-01"
-  description: Personal Development, Business, Technology, and insights on life at AT&T direct from our leadership and experts in their field.
-  organization: AT&T
-  organization_url: https://inside.att.jobs/externship
-  title: 2021 AT&T Summer Learning Academy Extern
-  url: https://www.credly.com/badges/191e89b0-b556-4423-a6eb-d20780f40d9c/linked_in
-  
-- certificate_url: https://www.credly.com/badges/723952ed-7f23-4043-b980-92e598902883?source=linked_in_profile
-  date_end: ""
-  date_start: "2019-05-01"
+  date_start: "2021-01-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
   description: ""
-  organization: Adobe PhotoShop
-  organization_url: https://www.adobe.com/products/photoshop.html
-  title: 'Adobe Certified Associate in Visual Design Using Adobe Photoshop'
-  url: "https://www.credly.com/badges/723952ed-7f23-4043-b980-92e598902883?source=linked_in_profile"
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R'
+  url: ""
 
 design:
   columns: '2' 
