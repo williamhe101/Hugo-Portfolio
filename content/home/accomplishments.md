@@ -37,6 +37,7 @@ item:
   date_start: "2021-07-01"
   description: Personal Development, Business, Technology, and insights on life at AT&T direct from our leadership and experts in their field.
   organization: AT&T
+  company_logo: att
   organization_url: https://inside.att.jobs/externship
   title: 2021 AT&T Summer Learning Academy Extern
   url: https://www.credly.com/badges/191e89b0-b556-4423-a6eb-d20780f40d9c/linked_in
