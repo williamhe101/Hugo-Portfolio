@@ -12,6 +12,9 @@ main:
     weight: 20
   - name: Projects
     url: '#projects'
+    weight: 30 
+  - name: Accomplisments
+    url: '#accomplisments'
     weight: 30
   - name: Contact
     url: '#contact'
