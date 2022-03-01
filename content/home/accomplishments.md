@@ -28,7 +28,7 @@ item:
   date_end: "2017-01-01"
   date_start: "2016-01-01"
   description: Recieved the official President’s Volunteer Service Gold Award medallion and a personalized certificate of achievement and letter signed by the president. Volunteered 250+ hours to qualify for years 2016 and 2017.
-  organization: the_us_government
+  organization: The US Government
   organization_url: https://presidentialserviceawards.gov
   title: The President’s Volunteer Service Gold Award
   url: "https://presidentialserviceawards.gov"
