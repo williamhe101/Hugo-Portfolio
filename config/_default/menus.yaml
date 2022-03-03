@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30 
-  - name: Accomplisments
-    url: '#accomplisments'
+  - name: Accomplishments
+    url: '#accomplishments'
     weight: 30
   - name: Contact
     url: '#contact'
