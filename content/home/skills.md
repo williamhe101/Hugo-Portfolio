@@ -19,15 +19,19 @@ feature:
 - description: 
   icon: cplusplus
   icon_pack: custom
-  name: C++
+  name: Problem-solving
 - description: 
   icon: circuitdesign
   icon_pack: custom
   name: Circuit Design
 - description: 
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: lead
+  icon_pack: custom
+  name: Leadership
+- description: 
+  icon: team
+  icon_pack: custom
+  name: Teamwork
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
