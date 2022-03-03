@@ -24,6 +24,40 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+
+
+- certificate_url:
+  date_end: "2022-02-17"
+  date_start: "2022-01-19"
+  description: •	Learned about 5G enabling technologies, including 5G NR air interface, advanced channel coding, massive MIMO, mobile mmWave, and much more.
+•	Understand basics of key networking features of 5G and the technologies applied with it like C-V2X, smart cities, etc.
+  organization: Qualcomm
+  organization_url: https://www.qualcommwirelessacademy.com/
+  title: Qualcomm 5G Primer Certificate
+  url: "https://www.qualcommwirelessacademy.com/"
+  
+  - certificate_url:
+  date_end: "2022-02-17"
+  date_start: "2022-01-19"
+  description: •	Gain the knowledge on how to excel as a business professional in one of the fastest growing industries in the world.
+•	Understand how 5G can optimize your business objectives.
+
+  organization: Qualcomm
+  organization_url: https://www.qualcommwirelessacademy.com/
+  title: Qualcomm Fundamentals of Cellular Communication and 5G Certificate
+  url: "https://www.qualcommwirelessacademy.com/"
+  
+  - certificate_url:
+  date_end: "2022-02-17"
+  date_start: "2022-01-19"
+  description: •	Gained a greater understanding of 5G technology and wireless engineering while also training with engineers at Qualcomm Technologies – a world leader in 5G technology and wireless communication.
+•	Discussion of the following in detail:
+Network architecture, mmWave, Beamforming, massive MIMO, and NR upper layers.
+  organization: Qualcomm
+  organization_url: https://www.qualcommwirelessacademy.com/
+  title: Qualcomm 5G NR Technical Training Certificate
+  url: "https://www.qualcommwirelessacademy.com/"
+
 - certificate_url:
   date_end: "2017-01-01"
   date_start: "2016-01-01"
