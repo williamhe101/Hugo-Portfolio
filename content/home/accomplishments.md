@@ -46,7 +46,7 @@ item:
   date_end: ""
   date_start: "2019-05-01"
   description: "Covers critical concepts related to working with colleagues and clients with crucial legal, technical, and design-related knowledge and interface setup and program settings that assist in an efficient and effective workflow, as well as knowledge about ingesting digital assets for a project."
-  organization: Adobe_Photoshop
+  organization: Adobe Photoshop
   organization_url: https://www.adobe.com/products/photoshop.html
   title: 'Adobe Certified Associate in Visual Design Using Adobe Photoshop'
   url: "https://www.adobe.com/products/photoshop.html"
