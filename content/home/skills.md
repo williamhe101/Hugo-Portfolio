@@ -21,10 +21,6 @@ feature:
   icon_pack: custom
   name: Problem-solving
 - description: 
-  icon: circuitdesign
-  icon_pack: custom
-  name: Circuit Design
-- description: 
   icon: lead
   icon_pack: custom
   name: Leadership
