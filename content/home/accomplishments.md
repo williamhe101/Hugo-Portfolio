@@ -24,6 +24,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+
+
+
+
+
+
+- certificate_url:
+  date_end: "2022-02-19"
+  date_start: "2022-01-17"
+  description: Learned about 5G enabling technologies, including 5G NR air interface, advanced channel coding, massive MIMO, mobile mmWave, and much more.                                                                         Understand the basics of key networking features of 5G and the technologies applied with it like C-V2X, smart cities, etc.
+  organization: Qualcomm
+  organization_url: https://www.qualcommwirelessacademy.com/
+  title: Qualcomm 5G Primer Certificate
+  url: "https://www.qualcommwirelessacademy.com/"
+
 - certificate_url:
   date_end: "2017-01-01"
   date_start: "2016-01-01"
