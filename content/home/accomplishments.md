@@ -41,18 +41,17 @@ item:
   date_start: "2022-01-17"
   description: Gain the knowledge on how to excel as a business professional in one of the fastest growing industries in the world.
 	Understand how 5G can optimize your business objectives.
-
   organization: Qualcomm
   organization_url: https://www.qualcommwirelessacademy.com/
   title: Qualcomm Fundamentals of Cellular Communication and 5G Certificate
   url: "https://www.qualcommwirelessacademy.com/"
   
-  - certificate_url:
+ - certificate_url:
   date_end: "2022-02-19"
   date_start: "2022-01-17"
-  description: Gained a greater understanding of 5G technology and wireless engineering while also training with engineers at Qualcomm Technologies – a world leader in 5G technology and wireless communication.
-•	Discussion of the following in detail:
-Network architecture, mmWave, Beamforming, massive MIMO, and NR upper layers.
+  description: Gained a greater understanding of 5G technology and wireless engineering while also training with engineers at Qualcomm Technologies – a world leader in 5G    technology and wireless communication.
+Discussion of the following in detail:
+    Network architecture, mmWave, Beamforming, massive MIMO, and NR upper layers.
   organization: Qualcomm
   organization_url: https://www.qualcommwirelessacademy.com/
   title: Qualcomm 5G NR Technical Training Certificate
