@@ -34,8 +34,8 @@ item:
   url: "https://presidentialserviceawards.gov"
   
 - certificate_url: https://www.credly.com/badges/191e89b0-b556-4423-a6eb-d20780f40d9c/linked_in
-  date_end: ""
-  date_start: "2021-07-01"
+  date_end: "2021-07-01"
+  date_start: "2021-06-01"
   description: Personal Development, Business, Technology, and insights on life at AT&T direct from our leadership and experts in their field.
   organization: AT&T
   organization_url: https://inside.att.jobs/externship
