@@ -34,9 +34,8 @@ item:
   description: Gain knowledge on how to excel as a business professional in one of the fastest-growing industries in the world. Understand how 5G can optimize your business objectives.
   organization: Qualcomm
   organization_url: https://www.qualcommwirelessacademy.com/
-  title: : Qualcomm Fundamentals of Cellular Communication and 5G Certificate
+  title: Qualcomm Fundamentals of Cellular Communication and 5G Certificate
   url: "https://www.qualcommwirelessacademy.com/"
-
 
 - certificate_url:
   date_end: "2022-02-19"
