@@ -27,6 +27,14 @@ item:
 
 
 
+- certificate_url:
+  date_end: "2022-02-19"
+  date_start: "2022-01-17"
+  description: Gained a greater understanding of 5G technology and wireless engineering while also training with engineers at Qualcomm Technologies – a world leader in 5G technology and wireless communication. Discussion of Network architecture, mmWave, Beamforming, massive MIMO, and NR upper layers, all in detail.
+  organization: Qualcomm
+  organization_url: https://www.qualcommwirelessacademy.com/
+  title: Qualcomm Qualcomm 5G NR Technical Training Certificate
+  url: "https://www.qualcommwirelessacademy.com/"
 
 - certificate_url:
   date_end: "2022-02-19"
