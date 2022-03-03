@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: cplusplus
+  icon: probs
   icon_pack: custom
   name: Problem-solving
 - description: 
@@ -25,9 +25,9 @@ feature:
   icon_pack: custom
   name: Leadership
 - description: 
-  icon: team
+  icon: learn
   icon_pack: custom
-  name: Teamwork
+  name: Desire to Learn
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
