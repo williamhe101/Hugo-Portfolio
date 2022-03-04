@@ -26,7 +26,7 @@ item:
 
 
 - certificate_url:
-  date_end: "Present"
+  date_end: ""
   date_start: "2022-01-01"
   description: Hosted informational event at the University of Texas at Dallas, offer guidance to other students, display a project that is an exhibit of our newfound skills, and be involved with the Microsoft community.
   organization: Microsoft
