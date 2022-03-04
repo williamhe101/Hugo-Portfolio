@@ -34,7 +34,7 @@ item:
   title: Microsoft Student Ambassador
   url: "https://studentambassadors.microsoft.com/"
 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1sj-pMAPwbrjbAyI--mrsFEMnq7iGP3Xe/view?usp=sharing
   date_end: "2022-02-19"
   date_start: "2022-01-17"
   description: Gained a greater understanding of 5G technology and wireless engineering while also training with engineers at Qualcomm Technologies – a world leader in 5G technology and wireless communication. Discussion of Network architecture, mmWave, Beamforming, massive MIMO, and NR upper layers, all in detail.
@@ -43,7 +43,7 @@ item:
   title: Qualcomm Qualcomm 5G NR Technical Training Certificate
   url: "https://www.qualcommwirelessacademy.com/"
 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1fCQbXW9ZfiYxrNfKm1yTGv-pbYW-EQ20/view?usp=sharing
   date_end: "2022-02-19"
   date_start: "2022-01-17"
   description: Gain knowledge on how to excel as a business professional in one of the fastest-growing industries in the world. Understand how 5G can optimize your business objectives.
@@ -52,7 +52,7 @@ item:
   title: Qualcomm Fundamentals of Cellular Communication and 5G Certificate
   url: "https://www.qualcommwirelessacademy.com/"
 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1i2DZxlZATVNIkfq7sFKNRNh3SDoDHjL_/view?usp=sharing
   date_end: "2022-02-19"
   date_start: "2022-01-17"
   description: Learned about 5G enabling technologies, including 5G NR air interface, advanced channel coding, massive MIMO, mobile mmWave, and much more.Understand the basics of key networking features of 5G and the technologies applied with it like C-V2X, smart cities, etc.
