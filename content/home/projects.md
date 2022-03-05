@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Personal Projects
-    tag: Hardware
+    tag: Personal Projects
   - name: Hardware
     tag: Hardware
   - name: Academic
