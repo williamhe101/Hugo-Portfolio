@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Personal Projects
+    tag: Hardware
   - name: Hardware
     tag: Hardware
   - name: Academic
