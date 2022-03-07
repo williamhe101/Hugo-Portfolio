@@ -63,7 +63,7 @@ item:
 
 - certificate_url:
   date_end: ""
-  date_start: "2022-07-01"
+  date_start: "2021-07-01"
   description: AppleCare Hardware Certification program is a comprehensive hardware certification program for technicians who want to become proficient in repairing Apple hardware to service devices on a per-product basis.
   organization: Apple
   organization_url: https://support.apple.com/en-us/HT205332
