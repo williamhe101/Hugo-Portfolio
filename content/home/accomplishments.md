@@ -79,15 +79,6 @@ item:
   title: 2021 AT&T Summer Learning Academy Extern
   url: "https://inside.att.jobs/externship"
   
-  -certificate_url:
-  date_end: ""
-  date_start: "2021-07-01"
-  description: AppleCare Hardware Certification program is a comprehensive hardware certification program for technicians who want to become proficient in repairing Apple hardware to service devices on a per-product basis.
-  organization: Apple
-  organization_url: https://support.apple.com/en-us/HT205332
-  title: Apple Certified
-  url: "https://support.apple.com/en-us/HT205332"
-  
 - certificate_url: https://www.credly.com/badges/723952ed-7f23-4043-b980-92e598902883?source=linked_in_profile
   date_end: ""
   date_start: "2019-05-01"
