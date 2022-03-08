@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image: murata.jpg
-  caption: 'Image credit: https://medical.murata.com/sitecore/content/home/products/connector/switchconnector?sc_lang=en'
+  caption: 'Image credit: '
   focal_point: ""
   placement: 2
   preview_only: false
