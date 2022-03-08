@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Accomplishments'
 subtitle:
 
 # Date format
@@ -99,5 +99,5 @@ item:
  
 
 design:
-  columns: '3' 
+  columns: '1' 
 ---
