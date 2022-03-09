@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image: 
-  caption: 'Image credit: '
+  caption: 'Image credit: Murata'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -37,8 +37,8 @@ tags:
 - 
 
 categories:
-- Demo
-- 
+- Work Experience
+- Posts
 ---
 
 ## Overview
@@ -98,8 +98,5 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
-## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
