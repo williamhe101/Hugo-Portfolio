@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Quick Bits
+title: Projects
 subtitle: ''
 
 content:
@@ -46,5 +46,5 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
