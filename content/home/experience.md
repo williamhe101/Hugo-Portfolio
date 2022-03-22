@@ -30,7 +30,8 @@ title: Prospective Dell ISG HArdware Engineering Intern
     date_start: '2021-06-06'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Infrastructure Solutions Group Hardware Engineering Intern for Summer 2022. 
+        Date above is incorrect but needed for time formatting.
 
   - title: RF Hardware Engineer Assistant
     company: Murata Electronics
