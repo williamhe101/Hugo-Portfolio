@@ -25,7 +25,7 @@ experience:
 title: Prospective Dell ISG HArdware Engineering Intern
     company: Dell Technologies
     company_url: ''
-    company_logo: Dell
+    company_logo: dell
     location: Carrollton, Texas
     date_start: '2021-06-06'
     date_end: ''
