@@ -30,7 +30,6 @@ experience:
     date_start: '2022-06-06'
     date_end: ''
 description: |2-
-        Responsibilities include:
         Infrastructure Solutions Group Hardware Engineering Intern
 
   - title: RF Hardware Engineer Assistant
