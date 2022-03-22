@@ -27,10 +27,10 @@ experience:
     company_url: ''
     company_logo: dell
     location: Round Rock, Texas
-    date_start: '2022-06-06'
+    date_start: '2021-06-06'
     date_end: ''
 description: |2-
-        Infrastructure Solutions Group Hardware Engineering Intern
+        Infrastructure Solutions Group Hardware Engineering Intern for Summer 2022. Date above is incorrect but needed for time formatting.
 
   - title: RF Hardware Engineer Assistant
     company: Murata Electronics
