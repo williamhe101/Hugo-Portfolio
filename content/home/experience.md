@@ -22,15 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Prospective Dell ISG Hardware Engineering Intern
-    company: Dell Technologies
-    company_url: ''
-    company_logo: dell
-    location: Round Rock, Texas
-    date_start: '2021-06-06'
-    date_end: ''
-description: |2-
-        Infrastructure Solutions Group Hardware Engineering Intern for Summer 2022. Date above is incorrect but needed for time formatting.
+
 
   - title: RF Hardware Engineer Assistant
     company: Murata Electronics
