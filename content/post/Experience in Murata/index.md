@@ -25,7 +25,7 @@ featured: false
 image: 
   caption: 'Image credit: Murata'
   focal_point: ""
-  placement: 3
+  placement: 4
   preview_only: false
 
 authors:
