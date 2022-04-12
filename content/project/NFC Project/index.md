@@ -1,6 +1,6 @@
 ---
-title: Autism Treatment Center Sensory Device Project
-summary: Sensory Cuff Project for Kids/Adults with Disabilities.
+title: Near-field communication (NFC) Design Project
+summary: Different Hardware Configurations for NFCs
 tags:
 - Hardware
 date: "2021-04-27T00:00:00Z"
