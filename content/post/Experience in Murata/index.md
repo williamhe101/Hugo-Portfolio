@@ -25,7 +25,7 @@ featured: false
 image: 
   caption: 'Image credit: Murata'
   focal_point: ""
-  placement: 1
+  placement: 3
   preview_only: false
 
 authors:
@@ -46,6 +46,8 @@ categories:
 **THIS IS A WORK IN PROGRESS**
 
 Over the 2021-2022 school year, I interned with Murata Electronics on multiple different projects with their radio frequency (RF) team. I have been working in person at their Dallas office (Carrollton specifically) and had a great time!
+
+
 
 **Pre-Internship/Employment**
 
