@@ -25,7 +25,7 @@ featured: false
 image: 
   caption: 'Image credit: Murata'
   focal_point: ""
-  placement: 4
+  placement: 2
   preview_only: false
 
 authors:
@@ -50,7 +50,8 @@ Over the 2021-2022 school year, I interned with Murata Electronics on multiple d
 
 
 **Pre-Internship/Employment**
-
+I wanted to put this section here since I want any readers to know what experience I had at the time, possibly inspiring them to go forth on their own career search.
+At the time of the interview, I only had a service industry job (for 2 months so far) as well as a few leadership positions under my belt. I had one project from my school work, which was a big emphasis on my interview as I did a lot of the hardware for it, which relates to this hardware internship. I also talked about my experience as an IEEE Committee Leader for our first and second annual Comet Hack (Hackathon) as an Events and Logistics Committee lead. I did not have any previous internship experience so this was my first time ever, as well as first job that relates to my engineering major.
 
 
 
