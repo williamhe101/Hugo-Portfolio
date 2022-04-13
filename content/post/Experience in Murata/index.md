@@ -1,9 +1,9 @@
 ---
 title: My Experience at Murata
-subtitle: Welcome 👋 This will be my first post in general, but I wanted to share a quick memoir of my experience here as an Associate Hardware Engineer at Murata Electronics.
+subtitle: Welcome 👋 This will be my first post in general, but I wanted to share a quick memoir of my experience here as an Assistant Hardware Engineer at Murata Electronics.
 
 # Summary for listings and search engines
-summary: Welcome 👋 This will be my first post in general, but I wanted to share a quick memoir of my experience here as an Associate Hardware Engineer at Murata Electronics.
+summary: Welcome 👋 This will be my first post in general, but I wanted to share a quick memoir of my experience here as an Assistant Hardware Engineer at Murata Electronics.
 
 # Link this post with a project
 projects: []
