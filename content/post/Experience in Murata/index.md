@@ -51,12 +51,12 @@ At the time of the interview, I only had a service industry job (for 2 months so
 
 ## Equipment
 ⠀⠀⠀Murata was very generous with the equipment that I could use for work. Although it did take a while to get everything set up, eventually my inventory included:
-‣ a very powerful HP ZBook Fury 17 G7 Workstation
-‣ Logitech mouse and keyboard combo
-‣ headset
-‣ a Dell monitor
-‣ docking station
-And if you were lucky, you could get other goodies if they had merch for March for Murata, an annual event that gave Murata exposure to their services and products (with free swag too of course). 
+- ‣ a very powerful HP ZBook Fury 17 G7 Workstation
+- ‣ Logitech mouse and keyboard combo
+- ‣ headset
+- ‣ a Dell monitor
+- ‣ docking station
+- And if you were lucky, you could get other goodies if they had merch for March for Murata, an annual event that gave Murata exposure to their services and products (with free swag too of course). 
 
 ## Overall Experience
 ⠀⠀⠀Murata Electronics was my first ever internship, so I was not sure what to expect. Apparently, I was the first-ever intern that they had, or at least in the Murata office, so there was not an established "intern program" per se, but it gave me a different experience than other companies since it allowed me to work amongst the entire engineering team. I did experience imposter syndrome as I felt that I did not know much or if anything coming in for the field of RF, but I was assigned a mentor, an experienced engineer named Michael.
