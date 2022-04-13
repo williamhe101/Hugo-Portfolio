@@ -89,6 +89,6 @@ At the time of the interview, I only had a service industry job (for 2 months so
 
 
 ⠀⠀⠀Special thanks to Michael Feng, my mentor, and Mark Fan, my manager, for leading me down this life-changing experience at Murata Electronics and I seriously cannot thank you guys enough.
-⠀⠀⠀Additional mentions of my awesome coworkers: Ryo Matsuura, Yujie Zhu, Bill Chen, Yanbing Yu, Riyaz Muhammad, and Amirali Haghighi.
+- ⠀⠀⠀Additional mentions of my awesome coworkers: Ryo Matsuura, Yujie Zhu, Bill Chen, Yanbing Yu, Riyaz Muhammad, and Amirali Haghighi.
 
 
