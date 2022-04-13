@@ -56,6 +56,7 @@ At the time of the interview, I only had a service industry job (for 2 months so
 - headset
 - a Dell monitor
 - docking station
+
 ⠀⠀⠀And if you were lucky, you could get other goodies if they had merch for March for Murata, an annual event that gave Murata exposure to their services and products (with free swag too of course). 
 
 ## Overall Experience
