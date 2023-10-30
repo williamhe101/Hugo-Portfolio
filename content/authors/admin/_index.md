@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelors in Science in Electrical Engineering
+  - course: Bachelor in Science in Electrical Engineering
     institution: University of Texas at Dallas
     year: 2023
   
